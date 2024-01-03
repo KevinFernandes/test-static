@@ -12,7 +12,7 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 ## Build
 
-Run `ng build --bas-href "./"` to build the project so it wiikk woff the filesystem. The build artifacts will be stored in the `dist/test-static` directory.
+Run `ng build --bas-href "./"` to build the project so it will work off the filesystem. The build artifacts will be stored in the `dist/test-static` directory.
 Modify the VSCode launch.json to load the index.html from the correct source folder.
 
 ## Running unit tests
