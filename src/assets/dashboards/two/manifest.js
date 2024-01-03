@@ -1,1 +1,1 @@
-folder = { folder: "two" }
+manifest = { folder: "two" }
