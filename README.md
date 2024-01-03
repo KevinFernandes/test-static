@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+This is intended to be a static file system-hosted site no web server is required or needed
 
 ## Code scaffolding
 
@@ -12,7 +12,8 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 ## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Run `ng build --bas-href "./"` to build the project so it wiikk woff the filesystem. The build artifacts will be stored in the `dist/test-static` directory.
+Modify the VSCode launch.json to load the index.html from the correct source folder.
 
 ## Running unit tests
 
